@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 import Loadable from '../../components/Loadable';
 import { lazy } from 'react';
 
